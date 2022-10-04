@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Погода</string>
+    <string name="frag_hours">Загрузка</string>
+    <string name="city_card">Казань</string>
+    <string name="condision_card">солнечно</string>
+    <string name="tab_hours">Часы</string>
+    <string name="tab_days">Дни</string>
+    <string name="item">солнечно</string>
+</resources>

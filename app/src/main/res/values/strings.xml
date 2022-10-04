@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="frag_hours">Loading</string>
+    <string name="city_card" >Kazan</string>
+    <string name="condision_card">sunny</string>
+    <string name="tab_hours">Hours</string>
+    <string name="tab_days">Days</string>
+    <string name="item">sunny</string>
+</resources>
